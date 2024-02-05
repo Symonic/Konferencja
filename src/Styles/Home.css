@@ -1,0 +1,139 @@
+body{
+    background-color: rgb(41, 4, 66);
+}
+
+#home-content-block{
+    width: 100%;
+    height: 2000px;
+}
+
+#about-content-block{
+    width: 100%;
+    height: 1000px;
+}
+
+#contact-content-block{
+    width: 100%;
+    height: 1000px;
+}
+
+#guests-content-block{
+    width: 100%;
+    height: 1000px;
+}
+
+#sign-content-block{
+    width: 100%;
+    height: 1000px;
+}
+
+#program-content-block{
+    width: 100%;
+    height: 1000px;
+}
+
+#home-content-block{
+    margin: 0px;
+}
+
+#container{
+    padding-top: 100px;
+    width:60%;
+    height: 2000px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#sponsorzy{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.tlo{
+    width: 100%;
+    opacity: 0.5;
+    position: absolute;
+    left: 200px;
+    bottom:300px;
+    border-radius: 50%;
+    padding:50px;
+}
+
+#zglos-udzial{
+    float: left;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#zglos-udzial h1{
+    font-size: 50px;
+    background-color: rgb(167, 95, 95);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-align: center;
+}
+
+#ludzie{
+    height: 300px;
+    opacity:0.5
+}
+
+#obraz-ludzie{
+    position: relative;
+}
+
+#wez-udzial-butt{
+    background-color: yellow;
+    height:50px;
+    width: 200px;
+    padding: 0px 10px;
+    color: black;
+    font-size: 20px;
+    font-weight: 300px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;;
+}
+
+#zapisz-sie{
+    width: 250px;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#poli-div{
+    width:500px
+}
+
+#poli{
+    width: 100%;
+}
+
+#info{
+    padding: 0px 0px 0px 50px;
+    width: 500px;
+}
+
+#info-par{
+    color: rgba(226, 83, 83, 0.445);
+}
